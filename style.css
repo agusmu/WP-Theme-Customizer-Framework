@@ -1,0 +1,23 @@
+/*
+Theme Name: CloudWork Anti Theme
+Theme URI: http://localsite.dev
+Description: This is just to test plugins
+Version: 0.1
+Author: Chris Kelley
+Author URI: http://themeforest.net/user/OrganicBeeMedia
+Tags: Html5 , Audio , Personal, Blog
+License: GPL V2
+License URI: 
+*/
+body{
+	background-color: rgb(235,235,235);
+}
+section.wrapper{
+	background-color: rgb(255,255,255);
+	border-radius: 3px;
+	margin-left: auto;
+	margin-right: auto;
+	width: 800px;	
+	padding: 30px;
+	
+}
