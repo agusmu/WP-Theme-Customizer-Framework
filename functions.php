@@ -2,10 +2,9 @@
 /**
  * @package CloudWork
  * @subpackage functions.php
- * @version 1.0
  * @author Chris Kelley <chris@organicbeemedia.com)
  * @copyright Copyright © 2013 Organic Bee Media
- * @link http://organicbeemedia.com
+ * @link http://cloudworkthemes.com
  * @since 0.1
  *
  * Table Of Contents
