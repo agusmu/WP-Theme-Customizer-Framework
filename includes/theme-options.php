@@ -1,5 +1,5 @@
 <?php
-
+add_filter('cw_cf_options', 'cw_customizer_options');
 /**
  * cw_customizer_options function.
  * 
@@ -7,15 +7,13 @@
  * @access public
  * @return array
  */
-function cw_customizer_options() {
+function cw_customizer_options( $options = array() ) {
 
 	// Pagination Array
 	$sample_array = array(
 		'test1' => __('Test One', 'cw'),
 		'test2' => __('Test Two', 'cw')
 	);
-
-	$options = array();
 
 	/* Section Settings
 	*  The setting section is a little different than setting up the other controls
