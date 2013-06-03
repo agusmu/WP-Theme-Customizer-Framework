@@ -170,7 +170,7 @@ function cw_cf_sanitize_hex( $hex, $default = '' ) {
  * @param mixed $hex
  * @return bool
  */
-function cw_validate_hex( $hex ) {
+function cw_cf_validate_hex( $hex ) {
 	
 	$hex = trim( $hex );
 	
